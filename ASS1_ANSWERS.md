@@ -1,2 +1,2 @@
-# Answers to the theoritical questions:
+# Answers to the theoretical questions:
 
