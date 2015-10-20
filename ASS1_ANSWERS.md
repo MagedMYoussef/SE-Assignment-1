@@ -1,7 +1,7 @@
 #Name: Maged Magdy Shokry
 #Section: 2
 #CS321 - Assignment 1
-- [x] This file has 2 sections, the first one is the **theoretical** questions and the second one includes **links to the programming exercises** in the same order of the book. 
+- [x] This file has **2 sections**, the first one is the **theoretical** questions and the second one includes **links to the programming exercises** in the same order of the book. 
 
 ##Answers to the **theoretical questions**:
 
@@ -36,4 +36,5 @@ It's very useful as it prevents the object data members for having garbage value
 ###10- What are this and *this?
 The first one is a **variable** and the second one is a **pointer**
 
+-----------------------------------------------------------------------------------------
 ##Answers to the **programming exercises**:
