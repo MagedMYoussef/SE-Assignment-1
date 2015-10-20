@@ -60,23 +60,11 @@ Person::Person(const string &ln, const char *fn) {
 
 //this function prints the first name then the last name
 void Person::Show() const {
-	//printing each character
-	for (int i = 0; i < LIMIT; i++) {
-		cout << fname[i];
-	}
-	cout << " ";	//separating the 2 names
-	//printing the last name
-	cout << lname;
+	cout << fname << " " << lname;
 }
 
 //this function prints the last name then the first name
 void Person::FormalShow() const {
-	//printing the last name
-	cout << lname;
-	cout << " ";	//separating the 2 names
-	//printing each character
-	for (int i = 0; i < LIMIT; i++) {
-		cout << fname[i];
-	}
+	cout << lname << " " << fname;
 }
 
