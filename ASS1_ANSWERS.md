@@ -42,3 +42,5 @@ The first one is a **variable** and the second one is a **pointer**
 ###Exercise 1: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_1.cpp)
 
 ###Exercise 2: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_2.cpp)
+
+###Exercise 6: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_6.cpp)
