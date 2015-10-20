@@ -21,19 +21,19 @@ Functions are used to describe the behaviour of the class/object, they're by def
 But, data members are **'Private'** members, so they can be accessed only inside the class.
 **Also**, the functions are responsible for any changes happen to the data members.
 
-###5- Coding Problem 5: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/chaprev_problem5.cpp#L8-L10)
+###5- Coding Problem 5: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/BankAccount/bank_account.h#L6-L20)
 
 ###6- When are class constructors called? When are class destructors called?
 Class **Constructors** are called when the object is first declared i.e in the creation of the instance from this class.
 Class **Destructors** are called when the lifetime of an object ends, they're used to free up some memory to be used for other elements.
 
-###7- Coding Problem 7: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/chaprev_problem7.cpp#L14-L16)
+###7- Coding Problem 7: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/BankAccount/bank_account.h#L13-L14)
 
 ###8- What is a default constructor? What is the advantage of having one?
 It's the constructor which is called automatically when the object is first declared or created.
 It's very useful as it prevents the object data members for having garbage values at the beginning of the excution.
 
-###9- Coding Problem 9: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/chaprev_stroke.h#L25-L29)
+###9- Coding Problem 9: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/Stock/stock.h#L30-L41)
 
 ###10- What are this and *this?
 The first one is a **variable** and the second one is a **pointer**
@@ -41,8 +41,17 @@ The first one is a **variable** and the second one is a **pointer**
 -----------------------------------------------------------------------------------------
 ##Answers to the **programming exercises**:
 
-###Exercise 1: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_1.cpp)
+###Exercise 1:
+####[bank_account.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/BankAccount/bank_account.cpp)
+####[bank_account.h](https://github.com/magedmagdy/SE-Assignment-1/blob/master/BankAccount/bank_account.h)
+####[main.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/BankAccount/main.cpp)
 
-###Exercise 2: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_2.cpp)
+###Exercise 2: 
+####[class_person.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/PersonName/class_person.cpp)
+####[class_person.h](https://github.com/magedmagdy/SE-Assignment-1/blob/master/PersonName/class_person.h)
+####[main.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/PersonName/main.cpp)
 
-###Exercise 6: [Click me!](https://github.com/magedmagdy/SE-Assignment-1/blob/master/ex_6.cpp)
+###Exercise 6: 
+####[class_move.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/Position/class_move.cpp)
+####[class_move.h](https://github.com/magedmagdy/SE-Assignment-1/blob/master/Position/class_move.h)
+####[main.cpp](https://github.com/magedmagdy/SE-Assignment-1/blob/master/Position/main.cpp)
